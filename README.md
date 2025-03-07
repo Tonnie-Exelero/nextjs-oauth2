@@ -2,8 +2,6 @@
 
 A full-stack application built with Next.js (App Router), Apollo Client, GraphQL Yoga, TypeScript, Prisma, and Pothos. This project demonstrates how to implement Google OAuth2 authentication and store user data in a PostgreSQL database.
 
-![Next.js GraphQL Auth Demo](/placeholder.svg?height=400&width=800)
-
 ## Features
 
 - 🔐 Google OAuth2 authentication
